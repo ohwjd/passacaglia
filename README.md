@@ -1,2 +1,2 @@
 # passacaglia
-Homework for David Weigls course on music encoding at mdw in S2024
+Homework for a course in music encoding at mdw in S2024.
