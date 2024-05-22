@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
    <meiHead>
       <fileDesc>
          <titleStmt>
@@ -24,7 +26,7 @@
    <music xml:id="mvjjsq8">
       <facsimile xml:id="fbkbqgv2">
          <surface xml:id="spwceoh1">
-            <graphic xml:id="gb1vze" target="https://raw.githubusercontent.com/ohwjd/passacaglia/blob/main/facsimile/Biber_Passacaglia_Scan_1.png" width="0" height="0"/>
+            <graphic xml:id="gb1vze" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_1.png" width="0" height="0"/>
          </surface>
          <surface xml:id="s2yxz37">
             <graphic xml:id="g57t0dm1" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_2.png" width="0" height="0"/>
