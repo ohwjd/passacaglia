@@ -22,6 +22,20 @@
       </encodingDesc>
    </meiHead>
    <music xml:id="mvjjsq8">
+      <facsimile xml:id="fbkbqgv2">
+         <surface xml:id="spwceoh1">
+            <graphic xml:id="gb1vze" target="https://raw.githubusercontent.com/ohwjd/passacaglia/blob/main/facsimile/Biber_Passacaglia_Scan_1.png" width="0" height="0"/>
+         </surface>
+         <surface xml:id="s2yxz37">
+            <graphic xml:id="g57t0dm1" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_2.png" width="0" height="0"/>
+         </surface>
+         <surface xml:id="s6we1l11">
+            <graphic xml:id="gb2svh7" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_3.png" width="0" height="0"/>
+         </surface>
+         <surface xml:id="sq6babs1">
+            <graphic xml:id="gkb17pp2" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_4.png" width="0" height="0"/>
+         </surface>
+      </facsimile>
       <body xml:id="b6cx2hn2">
          <mdiv xml:id="mwyrv6h1">
             <score xml:id="szbgf6l1">
@@ -43,7 +57,7 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <pb xml:id="pj9v5cc"/>
+                  <pb xml:id="pj9v5cc" facs="#spwceoh1"/>
                   <measure xml:id="mvt13l6" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
@@ -1196,7 +1210,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <pb xml:id="pcy87u1" type="mscore-manual"/>
+                  <pb xml:id="pcy87u1" facs="#s2yxz37" type="mscore-manual"/>
                   <measure xml:id="mxdux2r" metcon="false" n="36">
                      <staff xml:id="m36s1" n="1">
                         <layer xml:id="m36s1l1" n="1">
@@ -2428,7 +2442,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <pb xml:id="p3ulb2y1" type="mscore-manual"/>
+                  <pb xml:id="p3ulb2y1" facs="#s6we1l11" type="mscore-manual"/>
                   <measure xml:id="m1jk6757" n="65">
                      <staff xml:id="m65s1" n="1">
                         <layer xml:id="m65s1l1" n="1">
@@ -3603,7 +3617,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <pb xml:id="p8oqmil2" type="mscore-manual"/>
+                  <pb xml:id="p8oqmil2" facs="#sq6babs1" type="mscore-manual"/>
                   <measure xml:id="mughqoh" n="104">
                      <staff xml:id="m104s1" n="1">
                         <layer xml:id="m104s1l1" n="1">
