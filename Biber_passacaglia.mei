@@ -26,16 +26,16 @@
    <music xml:id="mvjjsq8">
       <facsimile xml:id="fbkbqgv2">
          <surface xml:id="spwceoh1">
-            <graphic xml:id="gb1vze" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_1.png" width="0" height="0"/>
+            <graphic xml:id="gb1vze" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_1.png"/>
          </surface>
          <surface xml:id="s2yxz37">
-            <graphic xml:id="g57t0dm1" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_2.png" width="0" height="0"/>
+            <graphic xml:id="g57t0dm1" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_2.png"/>
          </surface>
          <surface xml:id="s6we1l11">
-            <graphic xml:id="gb2svh7" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_3.png" width="0" height="0"/>
+            <graphic xml:id="gb2svh7" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_3.png"/>
          </surface>
          <surface xml:id="sq6babs1">
-            <graphic xml:id="gkb17pp2" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_4.png" width="0" height="0"/>
+            <graphic xml:id="gkb17pp2" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_4.png"/>
          </surface>
       </facsimile>
       <body xml:id="b6cx2hn2">
