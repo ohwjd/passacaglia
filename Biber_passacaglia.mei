@@ -14,7 +14,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-22T10:55:45" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-05-22T10:57:03" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -891,7 +891,7 @@
                            <rest xml:id="r124gt8r" dur="8" type="mscore-beam-none"/>
                            <rest xml:id="r17wrpyd" dur="8" type="mscore-beam-none"/>
                            <note xml:id="n8w31g9" dur="8" oct="4" pname="f" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="rek35r7" dur="8" type="mscore-beam-none"/>
+                           <rest xml:id="rek35r7" dur="8" oloc="4" ploc="e" type="mscore-beam-none"/>
                            <rest xml:id="rw0ze3a" dur="8" type="mscore-beam-none"/>
                         </layer>
                      </staff>
