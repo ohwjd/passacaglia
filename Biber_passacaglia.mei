@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-25T16:17:23" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-05-25T16:33:19" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -1221,8 +1221,8 @@
                               </note>
                               <note xml:id="n1eiv27i" oct="5" pname="g"/>
                            </chord>
-                           <rest xml:id="r1mvnpjw" dur="8" oloc="5" ploc="a" type="mscore-beam-none"/>
-                           <beam xml:id="bskgbi1">
+                           <rest xml:id="r1mvnpjw" dur="8" oloc="5" ploc="a"/>
+                           <beam xml:id="bskgbi1" form="norm">
                               <note xml:id="nqma269" dur="8" oct="5" pname="f" stem.dir="up">
                                  <accid xml:id="aowxy6e1" accid="s"/>
                               </note>
@@ -1235,14 +1235,14 @@
                               <accid xml:id="akfemd01" accid="f"/>
                            </note>
                            <note xml:id="n1p4itzx" dur="8" oct="5" pname="c"/>
-                           <note xml:id="n1gr52rv" dur="4" oct="4" pname="a" stem.dir="up"/>
-                           <rest xml:id="r1ut6oa6" dur="8" oloc="5" ploc="b"/>
+                           <note xml:id="n1gr52rv" dur="4" oct="4" pname="a" stem.dir="down"/>
+                           <rest xml:id="r1ut6oa6" dur="8" oloc="5" ploc="g"/>
                         </layer>
                         <layer xml:id="m32s1l3" n="3">
                            <space xml:id="r1snuedh" dur="4"/>
-                           <rest xml:id="r1gv6tpt" dur="8" oloc="3" ploc="b" type="mscore-beam-none"/>
+                           <rest xml:id="r1gv6tpt" dur="8" oloc="3" ploc="b"/>
                            <note xml:id="nwcw9k2" dur="4" oct="4" pname="d" stem.dir="down"/>
-                           <rest xml:id="r1acput1" dur="8" oloc="3" ploc="b" type="mscore-beam-none"/>
+                           <rest xml:id="r1acput1" dur="8" oloc="3" ploc="b"/>
                         </layer>
                      </staff>
                   </measure>
