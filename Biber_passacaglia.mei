@@ -71,7 +71,6 @@
             <zone xml:id="zone_01HYNA46467BC9982AKKJKHFK2" lrx="2643" lry="3055" type="measure" ulx="2400" uly="2601"/>
             <zone xml:id="zone_01HYNA4646KEF68X5R0M52V3B8" lrx="2902" lry="3092" type="measure" ulx="2652" uly="2709"/>
             <zone xml:id="zone_01HYNA4646ABM9TVMZE5K2QS3B" lrx="4263" lry="3080" type="measure" ulx="2911" uly="2569"/>
-            <zone xml:id="zm6szqo2" lrx="3427" lry="3328" type="measure" ulx="2983" uly="3260"/>
             <zone xml:id="zone_01HYNA46470GAVBWJK90FB9MR9" lrx="5066" lry="3110" type="measure" ulx="4254" uly="2587"/>
          </surface>
          <surface xml:id="surface_01HYNA46474DFFFX9A2W3P65YW" n="2" ulx="0" uly="0" lrx="5257" lry="3765">
