@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-24T17:00:20" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-05-25T16:17:23" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -71,7 +71,10 @@
             <zone xml:id="zone_01HYNA46467BC9982AKKJKHFK2" lrx="2643" lry="3055" type="measure" ulx="2400" uly="2601"/>
             <zone xml:id="zone_01HYNA4646KEF68X5R0M52V3B8" lrx="2902" lry="3092" type="measure" ulx="2652" uly="2709"/>
             <zone xml:id="zone_01HYNA4646ABM9TVMZE5K2QS3B" lrx="4263" lry="3080" type="measure" ulx="2911" uly="2569"/>
-            <zone xml:id="zone_01HYNA46470GAVBWJK90FB9MR9" lrx="5066" lry="3110" type="measure" ulx="4254" uly="2587"/>
+            <zone xml:id="zmua8j11" lrx="5103" lry="3092" type="measure" ulx="4249" uly="2618"/>
+            <zone xml:id="zjofbwn1" lrx="987" lry="3626" type="measure" ulx="233" uly="3132"/>
+            <zone xml:id="zd14wmh1" lrx="2568" lry="3592" type="measure" ulx="1027" uly="3138"/>
+            <zone xml:id="zioy5kc" lrx="4363" lry="3572" type="measure" ulx="2615" uly="3118"/>
          </surface>
          <surface xml:id="surface_01HYNA46474DFFFX9A2W3P65YW" n="2" ulx="0" uly="0" lrx="5257" lry="3765">
             <graphic xml:id="graphic_01HYNA4647TEKR4Z4Y18HVH6M7" target="facsimile/Biber_Passacaglia_Scan_2.png" width="5258" height="3766"/>
@@ -1545,7 +1548,7 @@
                      <tie xml:id="truia9h" curvedir="above" endid="#nwg4pzs" startid="#nmjn1kn"/>
                      <tie xml:id="t1326jip" curvedir="below" endid="#nabamdi" startid="#n1u4lrjx"/>
                   </measure>
-                  <measure xml:id="m1y9pwnm" facs="#zone_01HYNA4647BFAG1QM645B07HB8" n="42">
+                  <measure xml:id="m1y9pwnm" facs="#zmua8j11" n="42">
                      <staff xml:id="m42s1" n="1">
                         <layer xml:id="m42s1l1" n="1">
                            <beam xml:id="bjs6hl91">
@@ -1582,7 +1585,7 @@
                      </staff>
                   </measure>
                   <sb xml:id="vds34rwefd"/>
-                  <measure xml:id="m1y9pwnmsdg" metcon='false' n="42b">
+                  <measure xml:id="m1y9pwnmsdg" facs="#zjofbwn1" metcon="false" n="42b">
                      <staff xml:id="m42s1s4t" n="1">
                         <layer xml:id="m42s1l1etr" n="1">
                            <beam xml:id="bxsq3ns2">
@@ -1616,7 +1619,7 @@
                      </staff>
                      <tie xml:id="tkp5t9v" curvedir="above" endid="#natktw1" startid="#n1nqeofh"/>
                   </measure>
-                  <measure xml:id="m15fkp8f" facs="#zone_01HYNA46470GAVBWJK90FB9MR9" n="43">
+                  <measure xml:id="m15fkp8f" facs="#zd14wmh1" n="43">
                      <staff xml:id="m43s1" n="1">
                         <layer xml:id="m43s1l1" n="1">
                            <beam xml:id="blbhkgw1">
@@ -1671,7 +1674,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m17ijfpw" facs="#zone_01HYNA4647YVBRJ03H2Q3XFG2C" n="44">
+                  <measure xml:id="m17ijfpw" facs="#zioy5kc" n="44">
                      <staff xml:id="m44s1" n="1">
                         <layer xml:id="m44s1l1" n="1">
                            <beam xml:id="bxr2gjq1">
