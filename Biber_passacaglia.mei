@@ -69,7 +69,7 @@
             <zone xml:id="zone_01HYNA4646E2S6SWXAR22RHAHG" lrx="1850" lry="3078" type="measure" ulx="1424" uly="2566"/>
             <zone xml:id="zone_01HYNA4646YEMPCS49KP3939HB" lrx="2406" lry="3168" type="measure" ulx="1845" uly="2543"/>
             <zone xml:id="zone_01HYNA46467BC9982AKKJKHFK2" lrx="2643" lry="3055" type="measure" ulx="2400" uly="2601"/>
-            <zone xml:id="zone_01HYNA4646KEF68X5R0M52V3B8" lrx="2897" lry="3092" type="measure" ulx="2647" uly="2709"/>
+            <zone xml:id="zone_01HYNA4646KEF68X5R0M52V3B8" lrx="2902" lry="3092" type="measure" ulx="2652" uly="2709"/>
             <zone xml:id="zone_01HYNA4646ABM9TVMZE5K2QS3B" lrx="4263" lry="3080" type="measure" ulx="2911" uly="2569"/>
             <zone xml:id="zm6szqo2" lrx="3427" lry="3328" type="measure" ulx="2983" uly="3260"/>
             <zone xml:id="zone_01HYNA46470GAVBWJK90FB9MR9" lrx="5066" lry="3110" type="measure" ulx="4254" uly="2587"/>
@@ -1480,7 +1480,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="smdtwi1" type="mscore-manual"/>
                   <measure xml:id="m12duzqk" facs="#zone_01HYNA4646KEF68X5R0M52V3B8" n="40">
                      <staff xml:id="m40s1" n="1">
                         <layer xml:id="m40s1l1" n="1">
@@ -1539,9 +1538,9 @@
                         </layer>
                         <layer xml:id="m41s1l2" n="2">
                            <note xml:id="n1e4b8jv" dur="8" oct="4" pname="g" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="r18pphym" dur="4"/>
+                           <space xml:id="r18pphym" dur="4"/>
                            <note xml:id="n1l7u5s6" dur="8" oct="4" pname="f"/>
-                           <rest xml:id="rqq8ene" dur="4"/>
+                           <space xml:id="rqq8ene" dur="4"/>
                         </layer>
                      </staff>
                      <tie xml:id="truia9h" curvedir="above" endid="#nwg4pzs" startid="#nmjn1kn"/>
@@ -1575,6 +1574,18 @@
                               <note xml:id="nimf31q" dur="32" oct="5" pname="a" type="mscore-beam-mid"/>
                               <note xml:id="n120lk4x" dur="32" oct="5" pname="g"/>
                            </beam>
+                        </layer>
+                        <layer xml:id="m42s1l2" n="2">
+                           <note xml:id="n1ur8wk" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
+                              <accid xml:id="a7ftwwj1" accid="f"/>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="vds34rwefd"/>
+                  <measure xml:id="m1y9pwnmsdg" metcon='false' n="42b">
+                     <staff xml:id="m42s1s4t" n="1">
+                        <layer xml:id="m42s1l1etr" n="1">
                            <beam xml:id="bxsq3ns2">
                               <note xml:id="n1nqeofh" breaksec="2" dur="16" oct="5" pname="f" type="mscore-beam-begin">
                                  <accid xml:id="akc30t61" accid="s"/>
@@ -1597,24 +1608,15 @@
                               <note xml:id="n5r74vy" dur="16" oct="5" pname="c"/>
                            </beam>
                         </layer>
-                        <layer xml:id="m42s1l2" n="2">
-                           <note xml:id="n1ur8wk" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
-                              <accid xml:id="a7ftwwj1" accid="f"/>
-                           </note>
-                           <rest xml:id="rcojbfo" dots="1" dur="2"/>
-                        </layer>
-                        <layer xml:id="m42s1l3" n="3">
-                           <rest xml:id="rsay6uf" dots="1" dur="4"/>
+                        <layer xml:id="m42s1l2sef" n="2">
                            <chord xml:id="ccd0dhb" dur="8" stem.dir="down" type="mscore-beam-none">
                               <note xml:id="nbkoy9m" oct="4" pname="d"/>
                               <note xml:id="nwez7mp" oct="5" pname="d"/>
                            </chord>
-                           <rest xml:id="r3ttd2o" dur="4"/>
                         </layer>
                      </staff>
                      <tie xml:id="tkp5t9v" curvedir="above" endid="#natktw1" startid="#n1nqeofh"/>
                   </measure>
-                  <sb xml:id="shlk2xj1123"/>
                   <measure xml:id="m15fkp8f" facs="#zone_01HYNA46470GAVBWJK90FB9MR9" n="43">
                      <staff xml:id="m43s1" n="1">
                         <layer xml:id="m43s1l1" n="1">
