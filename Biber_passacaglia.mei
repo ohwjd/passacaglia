@@ -29,7 +29,6 @@
             <graphic xml:id="graphic_01HYNA4641CWXFRGG1NDS2K84H" target="facsimile/Biber_Passacaglia_Scan_1.png" width="5283" height="3730"/>
             <zone xml:id="zone_01HYNA4641W15GSQT19DR5BYQZ" lrx="1564" lry="672" type="measure" ulx="1053" uly="288"/>
             <zone xml:id="z775kha1" lrx="1804" lry="621" type="measure" ulx="1572" uly="273"/>
-            <zone xml:id="zone_01HYNA464128R5DE1B4C70DMAT" lrx="2187" lry="611" type="measure" ulx="1775" uly="240"/>
             <zone xml:id="zone_01HYNA4641Y8AS6YZZTYT7N0V3" lrx="2172" lry="683" type="measure" ulx="1798" uly="240"/>
             <zone xml:id="zone_01HYNA4642F9Z7WBYT4XBG41YV" lrx="2546" lry="639" type="measure" ulx="2169" uly="238"/>
             <zone xml:id="zone_01HYNA4642NSYRS90JGNC6Z3SJ" lrx="2925" lry="675" type="measure" ulx="2538" uly="218"/>
@@ -355,7 +354,7 @@
                      <slur xml:id="shdu3ac" curvedir="below" endid="#ntaj2j1" startid="#ngcxjfr"/>
                   </measure>
                   <sb xml:id="qwag23ieowdkl"/>
-                  <measure metcon='false' n="9b" facs="zone_01HYNA4642NM06B4CJVT9XJSD0">
+                  <measure metcon='false' n="9b">
                   <staff xml:id="m9s1a" facs="#zpmhxl1" n="1">
                         <layer xml:id="m9s1l1a" n="1">
                            <rest xml:id="rjl99pe" dur="8" oloc="5" ploc="d" type="mscore-beam-none"/>
