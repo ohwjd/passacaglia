@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-28T17:39:30" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-05-28T18:05:38" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -151,9 +151,28 @@
             <zone xml:id="z5optpp1" lrx="1792" lry="3125" type="measure" ulx="792" uly="2613"/>
             <zone xml:id="ze6q174" lrx="2988" lry="3141" type="measure" ulx="1804" uly="2601"/>
          </surface>
-         <surface xml:id="surface_01HYNA464H2M5E9V25DMHZDYFC" n="4" ulx="0" uly="0" lrx="5269" lry="3765">
-            <graphic xml:id="graphic_01HYNA464H8WWEBQCBYCG9QMBH" target="facsimile/Biber_Passacaglia_Scan_4.png" width="5270" height="3766"/>
-            <zone xml:id="zaixmhn134rwedf" lrx="900" lry="706" type="measure" ulx="388" uly="166"/>
+         <surface xml:id="s2zuvdh1" n='4' ulx="0" uly="0" lrx="5282" lry="3749">
+            <graphic xml:id="ggxc49q2" target="facsimile/Biber_Passacaglia_Scan_4.png" width="5283" height="3750"/>
+            <zone xml:id="z61x4ic1" lrx="1368" lry="596" type="measure" ulx="328" uly="216"/>
+            <zone xml:id="z5jc9wp1" lrx="2420" lry="628" type="measure" ulx="1392" uly="236"/>
+            <zone xml:id="zn3jq13" lrx="3692" lry="660" type="measure" ulx="2432" uly="244"/>
+            <zone xml:id="zxcst8l2" lrx="4955" lry="640" type="measure" ulx="3703" uly="240"/>
+            <zone xml:id="zn8c6q4" lrx="1700" lry="1116" type="measure" ulx="336" uly="636"/>
+            <zone xml:id="zon2vqb1" lrx="3312" lry="1104" type="measure" ulx="1732" uly="672"/>
+            <zone xml:id="zb4vye9" lrx="5027" lry="1088" type="measure" ulx="3319" uly="672"/>
+            <zone xml:id="zrz4aob1" lrx="2284" lry="1556" type="measure" ulx="336" uly="1140"/>
+            <zone xml:id="zbebnvm1" lrx="3256" lry="1536" type="measure" ulx="2296" uly="1156"/>
+            <zone xml:id="zizn1gb" lrx="3839" lry="1596" type="measure" ulx="3263" uly="1152"/>
+            <zone xml:id="zdhz7zg1" lrx="4359" lry="1592" type="measure" ulx="3843" uly="1104"/>
+            <zone xml:id="za214xk2" lrx="4959" lry="1580" type="measure" ulx="4387" uly="1108"/>
+            <zone xml:id="z12hl13" lrx="1000" lry="2132" type="measure" ulx="376" uly="1612"/>
+            <zone xml:id="z37qfas1" lrx="1560" lry="2132" type="measure" ulx="1024" uly="1636"/>
+            <zone xml:id="zqfbwua" lrx="2040" lry="2176" type="measure" ulx="1568" uly="1632"/>
+            <zone xml:id="znakd521" lrx="2628" lry="2160" type="measure" ulx="2052" uly="1636"/>
+            <zone xml:id="zhv0rfp1" lrx="2908" lry="2160" type="measure" ulx="2636" uly="1648"/>
+            <zone xml:id="zj5esnc1" lrx="3351" lry="2164" type="measure" ulx="2923" uly="1652"/>
+            <zone xml:id="ztmeiz71" lrx="3627" lry="2164" type="measure" ulx="3363" uly="1648"/>
+            <zone xml:id="zevat4p2" lrx="3779" lry="2188" type="measure" ulx="3635" uly="1656"/>
          </surface>
       </facsimile>
       <body xml:id="b6cx2hn2">
@@ -177,7 +196,7 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="s1">
-                  <pb xml:id="pj9v5cc" facs="#snfelz7"/>
+                  <pb xml:id="pj9v5cc" facs="#s6lbuwi2"/>
                   <measure xml:id="mvt13l6" facs="#zone_01HYNA4641W15GSQT19DR5BYQZ" n="1">
                      <staff xml:id="m1s1" n="1">
                         <layer xml:id="m1s1l1" n="1">
@@ -1720,7 +1739,7 @@
                      <tie xml:id="tpxhj5s" curvedir="below" endid="#nvu46de" startid="#n8pprq7"/>
                   </measure>
                   <sb xml:id="shlk2xj1"/>
-                  <pb xml:id="pcy87u1" facs="#sa2189c" type="mscore-manual"/>
+                  <pb xml:id="pcy87u1" facs="#sq30a7d" type="mscore-manual"/>
                   <measure xml:id="m12uncem" facs="#zone_01HYNA4647TZK4EG399AG1N8K8" n="45">
                      <staff xml:id="m45s1" n="1">
                         <layer xml:id="m45s1l1" n="1">
@@ -3112,7 +3131,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <pb xml:id="p3ulb2y1" facs="#s6we1l11" type="mscore-manual"/>
+                  <pb xml:id="p3ulb2y1" facs="#s7c3u0m1" type="mscore-manual"/>
                   <measure xml:id="m1tb1p4y" facs="#zaixmhn1" n="83">
                      <staff xml:id="m83s1" n="1">
                         <layer xml:id="m83s1l1" n="1">
@@ -4206,8 +4225,8 @@
                      </staff>
                   </measure>
                   <sb xml:id='a09sdionk'/>
-                  <pb xml:id="p8oqmil2" facs="#sq6babs1ae" type="mscore-manual"/>
-                  <measure xml:id="m2d1p4t" facs="#zone_01HYNA464GCV9DDGHZN7BSDTQP" n="113">
+                  <pb xml:id='f453tergfopt4' facs="s2zuvdh1"/>
+                  <measure xml:id="m2d1p4t" facs="#z61x4ic1" n="113">
                      <staff xml:id="m113s1" n="1">
                         <layer xml:id="m113s1l1" n="1">
                            <rest xml:id="rd4z9k8" dur="16" type="mscore-beam-none"/>
@@ -4237,7 +4256,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m1pqjf39" facs="#zone_01HYNA464GB90FYN85631M12Q4" n="114">
+                  <measure xml:id="m1pqjf39" facs="#z5jc9wp1" n="114">
                      <staff xml:id="m114s1" n="1">
                         <layer xml:id="m114s1l1" n="1">
                            <rest xml:id="rp4k6q9" dur="16" type="mscore-beam-none"/>
@@ -4269,7 +4288,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m1rjbkh6" facs="#zone_01HYNA464GP1MWWEWZW81Y3WX1" n="115">
+                  <measure xml:id="m1rjbkh6" facs="#zn3jq13" n="115">
                      <staff xml:id="m115s1" n="1">
                         <layer xml:id="m115s1l1" n="1">
                            <rest xml:id="rcavyid" dur="32" type="mscore-beam-none"/>
@@ -4307,7 +4326,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m19yb5pk" facs="#zone_01HYNA464HZ66ZKWVBGSYHQHZ5" n="116">
+                  <measure xml:id="m19yb5pk" facs="#zxcst8l2" n="116">
                      <staff xml:id="m116s1" n="1">
                         <layer xml:id="m116s1l1" n="1">
                            <rest xml:id="r1hwjo2l" dur="32" type="mscore-beam-none"/>
@@ -4348,7 +4367,7 @@
                      </staff>
                   </measure>
                   <sb xml:id="s5hytwh" type="mscore-manual"/>
-                  <measure xml:id="m1rn0bh7" facs="#zone_01HYNA464HTJZD65W4GPR76727" n="117">
+                  <measure xml:id="m1rn0bh7" facs="#zn8c6q4" n="117">
                      <staff xml:id="m117s1" n="1">
                         <layer xml:id="m117s1l1" n="1">
                            <rest xml:id="rq7a8dr" dur="32" type="mscore-beam-none"/>
@@ -4390,7 +4409,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m1od5b2b" facs="#zone_01HYNA464H3W4JPJM2Q5C0CBCM" n="118">
+                  <measure xml:id="m1od5b2b" facs="#zon2vqb1" n="118">
                      <staff xml:id="m118s1" n="1">
                         <layer xml:id="m118s1l1" n="1">
                            <rest xml:id="r1impxz6" dur="32" type="mscore-beam-none"/>
@@ -4454,7 +4473,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m1u0svxm" n="119">
+                  <measure xml:id="m1u0svxm" facs="#zb4vye9" n="119">
                      <staff xml:id="m119s1" n="1">
                         <layer xml:id="m119s1l1" n="1">
                            <rest xml:id="r1o9le7n" dur="32" type="mscore-beam-none"/>
@@ -4513,7 +4532,7 @@
                      </staff>
                   </measure>
                   <sb xml:id="soao1g9" type="mscore-manual"/>
-                  <measure xml:id="m1d5yod4" n="120">
+                  <measure xml:id="m1d5yod4" facs="#zrz4aob1" n="120">
                      <staff xml:id="m120s1" n="1">
                         <layer xml:id="m120s1l1" n="1">
                            <rest xml:id="r13xs60s" dur="32" type="mscore-beam-none"/>
@@ -4587,7 +4606,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mm7rmin" n="121">
+                  <measure xml:id="mm7rmin" facs="#zbebnvm1" n="121">
                      <staff xml:id="m121s1" n="1">
                         <layer xml:id="m121s1l1" n="1">
                            <rest xml:id="r7tpuol" dur="16" type="mscore-beam-none"/>
@@ -4617,7 +4636,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mnzgdlx" n="122">
+                  <measure xml:id="mnzgdlx" facs="#zizn1gb" n="122">
                      <staff xml:id="m122s1" n="1">
                         <layer xml:id="m122s1l1" n="1">
                            <rest xml:id="r1pqznmi" dur="16" type="mscore-beam-none"/>
@@ -4643,7 +4662,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mn87kai" n="123">
+                  <measure xml:id="mn87kai" facs="#zdhz7zg1" n="123">
                      <staff xml:id="m123s1" n="1">
                         <layer xml:id="m123s1l1" n="1">
                            <beam xml:id="bcq5cov1">
@@ -4678,7 +4697,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m1c2w6b3" n="124">
+                  <measure xml:id="m1c2w6b3" facs="#za214xk2" n="124">
                      <staff xml:id="m124s1" n="1">
                         <layer xml:id="m124s1l1" n="1">
                            <beam xml:id="brwbfs2">
@@ -4712,7 +4731,7 @@
                      </staff>
                   </measure>
                   <sb xml:id="sndi61k2" type="mscore-manual"/>
-                  <measure xml:id="m235r4n" n="125">
+                  <measure xml:id="m235r4n" facs="#z12hl13" n="125">
                      <staff xml:id="m125s1" n="1">
                         <layer xml:id="m125s1l1" n="1">
                            <beam xml:id="b4i81tw1">
@@ -4750,7 +4769,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m1e875cc" n="126">
+                  <measure xml:id="m1e875cc" facs="#z37qfas1" n="126">
                      <staff xml:id="m126s1" n="1">
                         <layer xml:id="m126s1l1" n="1">
                            <chord xml:id="ckhy3hp" dur="4" stem.dir="up">
@@ -4784,7 +4803,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="ma4bcw5" n="127">
+                  <measure xml:id="ma4bcw5" facs="#zqfbwua" n="127">
                      <staff xml:id="m127s1" n="1">
                         <layer xml:id="m127s1l1" n="1">
                            <chord xml:id="ctsoc9s" dur="4" stem.dir="up">
@@ -4815,7 +4834,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m14ykry" n="128">
+                  <measure xml:id="m14ykry" facs="#znakd521" n="128">
                      <staff xml:id="m128s1" n="1">
                         <layer xml:id="m128s1l1" n="1">
                            <chord xml:id="c1d0zs0" dur="4" stem.dir="up">
@@ -4849,7 +4868,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mdo1t4j" n="129">
+                  <measure xml:id="mdo1t4j" facs="#zhv0rfp1" n="129">
                      <staff xml:id="m129s1" n="1">
                         <layer xml:id="m129s1l1" n="1">
                            <chord xml:id="c10mgl0o" dots="1" dur="4" stem.dir="up">
@@ -4866,7 +4885,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m13ns0q0" n="130">
+                  <measure xml:id="m13ns0q0" facs="#zj5esnc1" n="130">
                      <staff xml:id="m130s1" n="1">
                         <layer xml:id="m130s1l1" n="1">
                            <rest xml:id="rz3cgps" dots="1" dur="4"/>
@@ -4892,7 +4911,7 @@
                      </staff>
                      <dynam xml:id="dkrf1pz" label="p" startid="#n123th0b">p</dynam>
                   </measure>
-                  <measure xml:id="mkc952g" n="131">
+                  <measure xml:id="mkc952g" facs="#ztmeiz71" n="131">
                      <staff xml:id="m131s1" n="1">
                         <layer xml:id="m131s1l1" n="1">
                            <chord xml:id="c1w6vqnz" dots="1" dur="4" stem.dir="up">
@@ -4910,7 +4929,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="m7x1ppi" n="132" right="end">
+                  <measure xml:id="m7x1ppi" facs="#zevat4p2" n="132" right="end">
                      <staff xml:id="m132s1" n="1">
                         <layer xml:id="m132s1l1" n="1">
                            <mRest xml:id="m1083jg5"/>
