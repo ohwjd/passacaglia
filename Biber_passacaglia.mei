@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-28T17:20:38" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-05-28T17:28:11" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -122,6 +122,7 @@
             <zone xml:id="zone_01HYNA464CE8CGT29CS6FSZTH7" lrx="1957" lry="689" type="measure" ulx="1491" uly="163"/>
             <zone xml:id="zaixmhn1" lrx="2484" lry="714" type="measure" ulx="1972" uly="174"/>
             <zone xml:id="zr5gs1x1" lrx="2976" lry="662" type="measure" ulx="2492" uly="206"/>
+            <zone xml:id="z3zqxuz1" lrx="3443" lry="686" type="measure" ulx="2991" uly="210"/>
          </surface>
          <surface xml:id="surface_01HYNA464H2M5E9V25DMHZDYFC" n="4" ulx="0" uly="0" lrx="5269" lry="3765">
             <graphic xml:id="graphic_01HYNA464H8WWEBQCBYCG9QMBH" target="facsimile/Biber_Passacaglia_Scan_4.png" width="5270" height="3766"/>
@@ -3237,7 +3238,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mtrvb75" n="88">
+                  <measure xml:id="mtrvb75" facs="#z3zqxuz1" n="88">
                      <staff xml:id="m88s1" n="1">
                         <layer xml:id="m88s1l1" n="1">
                            <note xml:id="n127am78" dots="1" dur="4" oct="5" pname="e" stem.dir="up">
