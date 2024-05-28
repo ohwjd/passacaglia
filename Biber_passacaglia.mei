@@ -1061,7 +1061,7 @@
                            <space xml:id="r124gt8r" dur="8" type="mscore-beam-none"/>
                            <space xml:id="r17wrpyd" dur="8" type="mscore-beam-none"/>
                            <note xml:id="n8w31g9" dur="8" oct="4" pname="f" stem.dir="down" type="mscore-beam-none"/>
-                           <space xml:id="rek35r7" dur="8" oloc="4" ploc="e" type="mscore-beam-none"/>
+                           <space xml:id="rek35r7" dur="8" type="mscore-beam-none"/>
                            <space xml:id="rw0ze3a" dur="8" type="mscore-beam-none"/>
                         </layer>
                      </staff>
@@ -3230,7 +3230,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="soe6kqq2" type="mscore-manual"/>
                   <measure xml:id="m1mva3i" facs="#zone_01HYNA464CQRCVH0M77Q1HJ08N" n="86">
                      <staff xml:id="m86s1" n="1">
                         <layer xml:id="m86s1l1" n="1">
@@ -3369,7 +3368,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="sgkeni3" type="mscore-manual"/>
                   <measure xml:id="m1i11qlb" facs="#zone_01HYNA464D60T1Q89V6SSAJV0P" n="91">
                      <staff xml:id="m91s1" n="1">
                         <layer xml:id="m91s1l1" n="1">
@@ -3389,6 +3387,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb xml:id="sgkeni3" type="mscore-manual"/>
                   <measure xml:id="m1uoebn6" facs="#zone_01HYNA464D9ZMPKPH4HSYR28R5" n="92">
                      <staff xml:id="m92s1" n="1">
                         <layer xml:id="m92s1l1" n="1">
@@ -3502,7 +3501,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="s8q3apv1" type="mscore-manual"/>
                   <measure xml:id="mm2zqr0" facs="#zone_01HYNA464DMJP843PK7QNS2F2Z" n="96">
                      <staff xml:id="m96s1" n="1">
                         <layer xml:id="m96s1l1" n="1">
@@ -3877,7 +3875,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="su04prk2" type="mscore-manual"/>
                   <measure xml:id="mbtor7p" facs="#zone_01HYNA464FB3KMCBRZ4T2JFM6Z" n="106">
                      <staff xml:id="m106s1" n="1">
                         <layer xml:id="m106s1l1" n="1">
@@ -3914,6 +3911,20 @@
                            <note xml:id="n1f8ouls" dur="8" oct="5" pname="b" type="mscore-beam-begin">
                               <accid xml:id="aj0wuqu1" accid.ges="f"/>
                            </note>
+                        </layer>
+                        <layer xml:id="m106s1l2" n="2">
+                           <note xml:id="n1mhva2h" dur="8" oct="4" pname="e">
+                              <accid xml:id="a6e4a0v2" accid="f"/>
+                           </note>
+                           <rest xml:id="rtfmgqw" dur="8" type="mscore-beam-none"/>
+                           <rest xml:id="r1i2zfmt" dur="8" type="mscore-beam-none"/>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="su04prk2" type="mscore-manual"/>
+                  <measure xml:id="mbtor7pb" facs="#zone_01HYNA464FB3KMCBRZ4T2JFM6Z" metcon='false' n="106b">
+                     <staff xml:id="m106s1b" n="1">
+                        <layer xml:id="m106s1l1b" n="1">
                            <rest xml:id="ro245ro" dur="64" type="mscore-beam-none"/>
                            <beam xml:id="bjl6ubj1">
                               <note xml:id="n1y6fkyc" dur="64" oct="4" pname="e">
@@ -3951,12 +3962,7 @@
                               <note xml:id="nql7ynr" dur="16" oct="4" pname="a" stem.dir="up"/>
                            </beam>
                         </layer>
-                        <layer xml:id="m106s1l2" n="2">
-                           <note xml:id="n1mhva2h" dur="8" oct="4" pname="e">
-                              <accid xml:id="a6e4a0v2" accid="f"/>
-                           </note>
-                           <rest xml:id="rtfmgqw" dur="8" type="mscore-beam-none"/>
-                           <rest xml:id="r1i2zfmt" dur="8" type="mscore-beam-none"/>
+                        <layer xml:id="m106s1l2b" n="2">
                            <note xml:id="n6mvi4r" dur="8" oct="4" pname="d"/>
                            <rest xml:id="rcz2xn6" dur="8" type="mscore-beam-none"/>
                            <rest xml:id="rx55f2t" dur="8" type="mscore-beam-none"/>
@@ -4098,6 +4104,21 @@
                                  <accid xml:id="at11xtd1" accid.ges="f"/>
                               </note>
                            </beam>
+                        </layer>
+                        <layer xml:id="m110s1l2" n="2">
+                           <note xml:id="n1xrf5jp" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
+                              <accid xml:id="adiy0041" accid.ges="f"/>
+                           </note>
+                           <rest xml:id="r1t9ebny" dur="4"/>
+                        </layer>
+                     </staff>
+                     <slur xml:id="sudukeh" curvedir="below" endid="#n1oigdkp" startid="#n1g4i5w5"/>
+                     <slur xml:id="s9jbx8j" curvedir="below" endid="#nopfci5" startid="#n3dw9bx"/>
+                     <slur xml:id="ss3lc41" curvedir="below" endid="#n147k36s" startid="#n12epifx"/>
+                  </measure>
+                  <measure xml:id="m15dqgx4b" facs="#zone_01HYNA464GYHD6P7K9ZAMDAF3N" metcon="false" n="110b">
+                     <staff xml:id="m110s1b" n="1">
+                        <layer xml:id="m110s1l1b" n="1">
                            <beam xml:id="breofwy2">
                               <note xml:id="n1orsc3h" dots="1" dur="8" oct="5" pname="f" type="mscore-beam-begin">
                                  <accid xml:id="aff7ado2" accid="s"/>
@@ -4106,11 +4127,7 @@
                               <note xml:id="n1arrmhb" dur="8" oct="5" pname="a"/>
                            </beam>
                         </layer>
-                        <layer xml:id="m110s1l2" n="2">
-                           <note xml:id="n1xrf5jp" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
-                              <accid xml:id="adiy0041" accid.ges="f"/>
-                           </note>
-                           <rest xml:id="r1t9ebny" dur="4"/>
+                        <layer xml:id="m110s1l2b" n="2">
                            <note xml:id="no6n0d0" dur="4" oct="4" pname="a" stem.dir="up"/>
                            <rest xml:id="rcte0d" dur="8" type="mscore-beam-none"/>
                         </layer>
@@ -4120,9 +4137,6 @@
                            <rest xml:id="ribkz7" dur="4"/>
                         </layer>
                      </staff>
-                     <slur xml:id="sudukeh" curvedir="below" endid="#n1oigdkp" startid="#n1g4i5w5"/>
-                     <slur xml:id="s9jbx8j" curvedir="below" endid="#nopfci5" startid="#n3dw9bx"/>
-                     <slur xml:id="ss3lc41" curvedir="below" endid="#n147k36s" startid="#n12epifx"/>
                   </measure>
                   <sb xml:id="smv2wit1" type="mscore-manual"/>
                   <measure xml:id="m15lpu2o" facs="#zone_01HYNA464GEK4JVBCV65W4XB76" n="111">
