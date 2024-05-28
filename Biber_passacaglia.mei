@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-28T16:10:19" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-05-28T17:03:28" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -4116,29 +4116,26 @@
                      <slur xml:id="s9jbx8j" curvedir="below" endid="#nopfci5" startid="#n3dw9bx"/>
                      <slur xml:id="ss3lc41" curvedir="below" endid="#n147k36s" startid="#n12epifx"/>
                   </measure>
+                  <sb xml:id="smv2wit1" type="mscore-manual"/>
                   <measure xml:id="m15dqgx4b" facs="#zone_01HYNA464GYHD6P7K9ZAMDAF3N" metcon="false" n="110b">
                      <staff xml:id="m110s1b" n="1">
                         <layer xml:id="m110s1l1b" n="1">
-                           <beam xml:id="breofwy2">
-                              <note xml:id="n1orsc3h" dots="1" dur="8" oct="5" pname="f" type="mscore-beam-begin">
+                           <beam xml:id="breofwy2" place='above'>
+                              <note xml:id="n1orsc3h" dots="1" dur="8" oct="5" pname="f" stem.dir="up" type="mscore-beam-begin">
                                  <accid xml:id="aff7ado2" accid="s"/>
                               </note>
-                              <note xml:id="n1tw9o6x" dur="16" oct="5" pname="g"/>
-                              <note xml:id="n1arrmhb" dur="8" oct="5" pname="a"/>
+                              <note xml:id="n1tw9o6x" dur="16" oct="5" pname="g" stem.dir="up"/>
+                              <note xml:id="n1arrmhb" dur="8" oct="5" pname="a" stem.dir="up"/>
                            </beam>
                         </layer>
                         <layer xml:id="m110s1l2b" n="2">
-                           <note xml:id="no6n0d0" dur="4" oct="4" pname="a" stem.dir="up"/>
-                           <rest xml:id="rcte0d" dur="8" type="mscore-beam-none"/>
+                           <note xml:id="no6n0d0" dur="4" oct="4" pname="a" stem.dir="down"/>
                         </layer>
                         <layer xml:id="m110s1l3" n="3">
-                           <rest xml:id="rlhtwai" dots="1" dur="4"/>
                            <note xml:id="ndl47wz" dur="8" oct="4" pname="d" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="ribkz7" dur="4"/>
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="smv2wit1" type="mscore-manual"/>
                   <measure xml:id="m15lpu2o" facs="#zone_01HYNA464GEK4JVBCV65W4XB76" n="111">
                      <staff xml:id="m111s1" n="1">
                         <layer xml:id="m111s1l1" n="1">
@@ -4229,6 +4226,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <pb xml:id="p8oqmil2" facs="#sq6babs1" type="mscore-manual"/>
                   <measure xml:id="m2d1p4t" facs="#zone_01HYNA464GCV9DDGHZN7BSDTQP" n="113">
                      <staff xml:id="m113s1" n="1">
                         <layer xml:id="m113s1l1" n="1">
@@ -4414,7 +4412,6 @@
                      </staff>
                   </measure>
                   <sb xml:id="sq909jg" type="mscore-manual"/>
-                  <pb xml:id="p8oqmil2" facs="#sq6babs1" type="mscore-manual"/>
                   <measure xml:id="m1od5b2b" facs="#zone_01HYNA464H3W4JPJM2Q5C0CBCM" n="118">
                      <staff xml:id="m118s1" n="1">
                         <layer xml:id="m118s1l1" n="1">
