@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-28T18:05:38" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-05-29T11:28:52" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -559,7 +559,7 @@
                         </layer>
                         <layer xml:id="m13s1l2" n="2">
                            <note xml:id="n16pgg4t" dur="8" oct="4" pname="g"/>
-                           <rest xml:id="r7hguqy" dur="8" oloc="5" ploc="b" type="mscore-beam-none"/>
+                           <rest xml:id="r7hguqy" dur="8" oloc="5" ploc="b" type="mscore-beam-none" />
                            <rest xml:id="roiky7l" dur="8" oloc="4" ploc="e" type="mscore-beam-none"/>
                            <note xml:id="n1vcwty6" dur="8" oct="4" pname="f" stem.dir="down" type="mscore-beam-none"/>
                            <rest xml:id="r1fr8ujh" dur="8" type="mscore-beam-none"/>
@@ -2289,8 +2289,8 @@
                         <layer xml:id="m56s1l2" n="2">
                            <note xml:id="n163ehyg" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
                               <accid xml:id="a1dbngs2" accid.ges="f"/>
-                           </note><
-                           space xml:id="r167am6z" dur="4"/>
+                           </note>
+                           <space xml:id="r167am6z" dur="4"/>
                            <note xml:id="new599l" dur="8" oct="4" pname="d" stem.dir="down" type="mscore-beam-none"/>
                         </layer>
                      </staff>
