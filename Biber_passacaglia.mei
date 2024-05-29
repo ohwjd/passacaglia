@@ -27,7 +27,7 @@
       <facsimile>
          <surface xml:id="surface_01HYNA46401ZYXT00EH1N4T7ZE" n="1" ulx="0" uly="0" lrx="5282" lry="3729">
             <graphic xml:id="graphic_01HYNA4641CWXFRGG1NDS2K84H" target="facsimile/Biber_Passacaglia_Scan_1.png" width="5283" height="3730"/>
-            <zone xml:id="zone_01HYNA4641W15GSQT19DR5BYQZ" lrx="1564" lry="672" type="measure" ulx="1053" uly="288"/>
+            <zone xml:id="zone_01HYNA4641W15GSQT19DR5BYQZ" lrx="1568" lry="628" type="measure" ulx="1057" uly="244"/>
             <zone xml:id="z775kha1" lrx="1804" lry="621" type="measure" ulx="1572" uly="273"/>
             <zone xml:id="zone_01HYNA4641Y8AS6YZZTYT7N0V3" lrx="2172" lry="683" type="measure" ulx="1798" uly="240"/>
             <zone xml:id="zone_01HYNA4642F9Z7WBYT4XBG41YV" lrx="2546" lry="639" type="measure" ulx="2169" uly="238"/>
@@ -2023,10 +2023,7 @@
                            <note xml:id="n1c1qwfj" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
                               <accid xml:id="a75sv18" accid="f"/>
                            </note>
-                           <rest xml:id="r1xf8ysc" dots="1" dur="2"/>
-                        </layer>
-                        <layer xml:id="m50s1l3" n="3">
-                           <rest xml:id="r1rqjenj" dots="1" dur="4"/>
+                           <space xml:id="r1xf8ysc" dur="4"/>
                            <note xml:id="n14p2wrl" dots="1" dur="4" oct="4" pname="d" stem.dir="down"/>
                         </layer>
                      </staff>
@@ -2079,9 +2076,9 @@
                         </layer>
                         <layer xml:id="m51s1l2" n="2">
                            <note xml:id="n1fg9b1j" dur="8" oct="4" pname="g" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="r1xkflmf" dur="4"/>
+                           <space xml:id="r1xkflmf" dur="4"/>
                            <note xml:id="n13jzqwn" dur="8" oct="4" pname="f" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="r1ipdypy" dur="4"/>
+                           <space xml:id="r1ipdypy" dur="4"/>
                         </layer>
                      </staff>
                      <trill xml:id="t1ie79xp" startid="#n1kqc90k"/>
@@ -2142,12 +2139,10 @@
                            <note xml:id="nsos0ix" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
                               <accid xml:id="ay7xzrp2" accid.ges="f"/>
                            </note>
-                           <rest xml:id="r1r0m9xw" dots="2" dur="2"/>
-                        </layer>
-                        <layer xml:id="m52s1l3" n="3">
-                           <rest xml:id="r16sngfg" dots="2" dur="4"/>
+                           <space xml:id="r16sngfg"  dur="8"/>
+                           <space xml:id="r16sngsdffg"  dur="32"/>
+                           <space xml:id="r16sngsdfasfdfg"  dur="64"/>
                            <note xml:id="n1dje8sk" dur="8" oct="4" pname="d" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="rd58itf" dots="1" dur="4"/>
                         </layer>
                      </staff>
                      <tie xml:id="tof6zsb" curvedir="below" endid="#nylk1c7" startid="#np8ti4i"/>
@@ -2179,9 +2174,9 @@
                         </layer>
                         <layer xml:id="m53s1l2" n="2">
                            <note xml:id="njdhoax" dur="8" oct="4" pname="g"/>
-                           <rest xml:id="r17ih00v" dur="4"/>
+                           <space xml:id="r17ih00v" dur="4"/>
                            <note xml:id="n1edoctf" dur="8" oct="4" pname="f" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="r1wim3rt" dur="4"/>
+                           <space xml:id="r1wim3rt" dur="4"/>
                         </layer>
                      </staff>
                   </measure>
@@ -2222,9 +2217,9 @@
                            <note xml:id="ndldhkd" dur="8" oct="4" pname="e">
                               <accid xml:id="awqeino2" accid="f"/>
                            </note>
-                           <rest xml:id="r1kqguqd" dur="4"/>
+                           <space xml:id="r1kqguqd" dur="4"/>
                            <note xml:id="nko94a9" dur="8" oct="4" pname="d"/>
-                           <rest xml:id="rgervvi" dur="4"/>
+                           <space xml:id="rgervvi" dur="4"/>
                         </layer>
                      </staff>
                   </measure>
@@ -2254,12 +2249,8 @@
                         </layer>
                         <layer xml:id="m55s1l2" n="2">
                            <note xml:id="n1krpz2v" dur="8" oct="4" pname="g" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="rd6bwmx" dots="1" dur="2"/>
-                        </layer>
-                        <layer xml:id="m55s1l3" n="3">
-                           <rest xml:id="r70p8r4" dots="1" dur="4"/>
+                           <space xml:id="r70p8r4" dur="4"/>
                            <note xml:id="nro5761" dur="8" oct="4" pname="f" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="r187wu4y" dur="4"/>
                         </layer>
                      </staff>
                   </measure>
@@ -2298,13 +2289,9 @@
                         <layer xml:id="m56s1l2" n="2">
                            <note xml:id="n163ehyg" dur="8" oct="4" pname="e" stem.dir="down" type="mscore-beam-none">
                               <accid xml:id="a1dbngs2" accid.ges="f"/>
-                           </note>
-                           <rest xml:id="rickyiw" dots="1" dur="2"/>
-                        </layer>
-                        <layer xml:id="m56s1l3" n="3">
-                           <rest xml:id="r167am6z" dots="1" dur="4"/>
+                           </note><
+                           space xml:id="r167am6z" dur="4"/>
                            <note xml:id="new599l" dur="8" oct="4" pname="d" stem.dir="down" type="mscore-beam-none"/>
-                           <rest xml:id="r1i7e9a8" dur="4"/>
                         </layer>
                      </staff>
                   </measure>
