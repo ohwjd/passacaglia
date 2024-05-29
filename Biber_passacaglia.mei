@@ -26,7 +26,8 @@
    <music xml:id="mvjjsq8">
       <facsimile>
          <surface xml:id="surface_01HYNA46401ZYXT00EH1N4T7ZE" n="1" ulx="0" uly="0" lrx="5282" lry="3729">
-            <graphic xml:id="graphic_01HYNA4641CWXFRGG1NDS2K84H" target="facsimile/Biber_Passacaglia_Scan_1.png" width="5283" height="3730"/>
+            <graphic xml:id="graphic_01HYNA4641CWXFRGG1NDS2K84H" target="https://raw.githubusercontent.com/ohwjd/passacaglia/main/facsimile/Biber_Passacaglia_Scan_1.png
+" width="5283" height="3730"/>
             <zone xml:id="zone_01HYNA4641W15GSQT19DR5BYQZ" lrx="1568" lry="628" type="measure" ulx="1057" uly="244"/>
             <zone xml:id="z775kha1" lrx="1804" lry="621" type="measure" ulx="1572" uly="273"/>
             <zone xml:id="zone_01HYNA4641Y8AS6YZZTYT7N0V3" lrx="2172" lry="683" type="measure" ulx="1798" uly="240"/>
