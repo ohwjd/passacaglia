@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="erwod2l2">
          <appInfo xml:id="a43qeip2">
-            <application xml:id="ag15qq61" enddate="2024-05-29T16:20:20" startdate="2024-05-22T09:40:37" version="1.0.14">
+            <application xml:id="ag15qq61" enddate="2024-06-01T18:27:55" startdate="2024-05-22T09:40:37" version="1.0.14">
                <name xml:id="nsb2gq81">mei-friend</name>
                <p xml:id="pm112pp1">First edit by mei-friend 1.0.14, 7 May 2024.</p>
             </application>
@@ -26,8 +26,7 @@
    <music xml:id="mvjjsq8">
       <facsimile>
          <surface xml:id="surface_01HYNA46401ZYXT00EH1N4T7ZE" n="1" ulx="0" uly="0" lrx="5282" lry="3729">
-            <graphic xml:id="graphic_01HYNA4641CWXFRGG1NDS2K84H" target="https://github.com/ohwjd/passacaglia/blob/main/facsimile/Biber_Passacaglia_Scan_1.png?raw=true
-" width="5283" height="3730"/>
+            <graphic xml:id="graphic_01HYNA4641CWXFRGG1NDS2K84H" target="facsimile/Biber_Passacaglia_Scan_1.png" width="5283" height="3730"/>
             <zone xml:id="zone_01HYNA4641W15GSQT19DR5BYQZ" lrx="1568" lry="628" type="measure" ulx="1057" uly="244"/>
             <zone xml:id="z775kha1" lrx="1804" lry="621" type="measure" ulx="1572" uly="273"/>
             <zone xml:id="zone_01HYNA4641Y8AS6YZZTYT7N0V3" lrx="2172" lry="683" type="measure" ulx="1798" uly="240"/>
@@ -77,7 +76,7 @@
             <zone xml:id="zioy5kc" lrx="4363" lry="3572" type="measure" ulx="2615" uly="3118"/>
          </surface>
          <surface xml:id="surface_01HYNA46474DFFFX9A2W3P65YW" n="2" ulx="0" uly="0" lrx="5257" lry="3765">
-            <graphic xml:id="graphic_01HYNA4647TEKR4Z4Y18HVH6M7" target="https://github.com/ohwjd/passacaglia/blob/main/facsimile/Biber_Passacaglia_Scan_2.png?raw=true" width="5258" height="3766"/>
+            <graphic xml:id="graphic_01HYNA4647TEKR4Z4Y18HVH6M7" target="facsimile/Biber_Passacaglia_Scan_2.png" width="5258" height="3766"/>
             <zone xml:id="zone_01HYNA4647TZK4EG399AG1N8K8" lrx="1266" lry="615" type="measure" ulx="118" uly="73"/>
             <zone xml:id="zone_01HYNA4647MXKDQTJ1987GHSKT" lrx="1978" lry="620" type="measure" ulx="1267" uly="80"/>
             <zone xml:id="zone_01HYNA4647H1ET2Z1A2DVGVNHX" lrx="2761" lry="626" type="measure" ulx="1981" uly="84"/>
@@ -118,7 +117,7 @@
             <zone xml:id="zvqblrc" lrx="4938" lry="3697" type="measure" ulx="4350" uly="3165"/>
          </surface>
          <surface xml:id="surface_01HYNA464CYTKVXZZ293JK7T9X" n="3" ulx="0" uly="0" lrx="5282" lry="3749">
-            <graphic xml:id="graphic_01HYNA464CQZNVJB7NEG33XPM2" target="https://github.com/ohwjd/passacaglia/blob/main/facsimile/Biber_Passacaglia_Scan_3.png?raw=true" width="5283" height="3750"/>
+            <graphic xml:id="graphic_01HYNA464CQZNVJB7NEG33XPM2" target="facsimile/Biber_Passacaglia_Scan_3.png" width="5283" height="3750"/>
             <zone xml:id="zaixmhn1" lrx="900" lry="706" type="measure" ulx="388" uly="166"/>
             <zone xml:id="zwphja81" lrx="1484" lry="670" type="measure" ulx="924" uly="182"/>
             <zone xml:id="zwtngp31" lrx="1948" lry="674" type="measure" ulx="1504" uly="194"/>
@@ -153,7 +152,7 @@
             <zone xml:id="ze6q174" lrx="2988" lry="3141" type="measure" ulx="1804" uly="2601"/>
          </surface>
          <surface xml:id="s2zuvdh1" n='4' ulx="0" uly="0" lrx="5282" lry="3749">
-            <graphic xml:id="ggxc49q2" target="https://github.com/ohwjd/passacaglia/blob/main/facsimile/Biber_Passacaglia_Scan_4.png?raw=true" width="5283" height="3750"/>
+            <graphic xml:id="ggxc49q2" target="facsimile/Biber_Passacaglia_Scan_4.png" width="5283" height="3750"/>
             <zone xml:id="z61x4ic1" lrx="1368" lry="596" type="measure" ulx="328" uly="216"/>
             <zone xml:id="z5jc9wp1" lrx="2420" lry="628" type="measure" ulx="1392" uly="236"/>
             <zone xml:id="zn3jq13" lrx="3692" lry="660" type="measure" ulx="2432" uly="244"/>
@@ -4669,19 +4668,19 @@
                               <note xml:id="n1horxmd" oct="5" pname="c"/>
                               <note xml:id="n81b25m" oct="5" pname="a"/>
                            </chord>
-                           <rest xml:id="rgikib4" dur="8" oloc="6" ploc="d" type="mscore-beam-none"/>
+                           <rest xml:id="rgikib4" dur="8" oloc="6" ploc="c" type="mscore-beam-none"/>
                         </layer>
                         <layer xml:id="m123s1l2" n="2">
                            <note xml:id="ni0bon7" dur="4" oct="4" pname="g" stem.dir="down"/>
-                           <rest xml:id="ruudhuo" dur="8" oloc="4" ploc="b" type="mscore-beam-none"/>
+                           <rest xml:id="ruudhuo" dur="8" type="mscore-beam-none"/>
                            <note xml:id="n16v7yee" dur="4" oct="4" pname="f" stem.dir="down"/>
                            <note xml:id="nqagi19" dur="8" oct="5" pname="d" stem.dir="up"/>
                         </layer>
                         <layer xml:id="m123s1l3" n="3">
                            <space xml:id="r7w89ri" dur="4"/>
-                           <space xml:id="rivoew7" dur="8" type="mscore-beam-none"/>
+                           <rest xml:id="rivoew7" dur="8" type="mscore-beam-none"/>
                            <space xml:id="r1nvcbp" dur="4"/>
-                           <rest xml:id="r1j76zjm" dur="8" oloc="4" ploc="e" type="mscore-beam-none"/>
+                           <rest xml:id="r1j76zjm" dur="8" oloc="4" ploc="c" type="mscore-beam-none"/>
                         </layer>
                      </staff>
                   </measure>
@@ -4766,12 +4765,12 @@
                               </note>
                               <note xml:id="n1r05yf7" oct="5" pname="g"/>
                            </chord>
-                           <rest xml:id="r5piy1u" dur="8" oloc="4" ploc="e" type="mscore-beam-none"/>
+                           <rest xml:id="r5piy1u" dur="8" oloc="6" ploc="c" type="mscore-beam-none"/>
                            <beam xml:id="br9zcld1">
                               <chord>
                               <note xml:id="n1224a4c" dots="1" dur="8" oct="5" pname="g" type="mscore-beam-begin"/>
-                              <note xml:id="n3hhn13" dur="4" oct="4" pname="a" stem.dir="up"/>
-                              </chord>
+                           <note xml:id="n3hhn13" dur="4" oct="4" pname="a" stem.dir="up"/>
+                                 </chord>
                               <note xml:id="n1hn22iq" dur="16" oct="5" pname="a"/>
                               <note xml:id="n138yjdq" dur="8" oct="5" pname="f">
                                  <accid xml:id="appan5q1" accid="s"/>
@@ -4783,13 +4782,14 @@
                               <accid xml:id="a7jgt7" accid="f"/>
                            </note>
                            <note xml:id="n56jt5h" dur="8" oct="5" pname="d" stem.dir="up"/>
-                           <note xml:id="n12xt1az" dur="4" oct="4" pname="d" stem.dir="down"/>
-                           <space dur="16"/>
-                           <rest xml:id="r1riyjto" dur="8" type="mscore-beam-none"/>
+                           <space xml:id="r1riysdfjto" dur="4"/>
+                           <space xml:id="r1riysdfWEto" dur="16"/>
+                           <rest xml:id="r1riyjto" dur="8"/>
                         </layer>
                         <layer xml:id="m126s1l3" n="3">
                            <space xml:id="rup9gf" dur="4"/>
-                           <rest xml:id="rs6se8y" dur="8" oloc="6" ploc="d" type="mscore-beam-none"/>
+                           <rest xml:id="rs6se8y" dur="8" oloc="4" ploc="d"/>
+                           <note xml:id="n12xt1az" dur="4" oct="4" pname="d" stem.dir="down"/>
                         </layer>
                      </staff>
                   </measure>
@@ -4802,7 +4802,7 @@
                               </note>
                               <note xml:id="ncfuvb9" oct="5" pname="g"/>
                            </chord>
-                           <space xml:id="r14vwihk" dur="8" type="mscore-beam-none"/>
+                           <rest xml:id="r14vwihk" dur="8" type="mscore-beam-none"/>
                            <beam xml:id="b6xuts7">
                               <chord xml:id="cgclp4p" dur="8" type="mscore-beam-begin">
                                  <note xml:id="nhi4czf" oct="5" pname="c"/>
@@ -4814,14 +4814,15 @@
                         </layer>
                         <layer xml:id="m127s1l2" n="2">
                            <note xml:id="n6hzus8" dur="4" oct="4" pname="g" stem.dir="down"/>
-                           <rest xml:id="r10aemez" dur="8" oloc="5" ploc="a" type="mscore-beam-none"/>
+                           <space xml:id="r10aemez" dur="8" type="mscore-beam-none"/>
                            <note xml:id="nic4wpu" dur="4" oct="4" pname="f"/>
-                              <note xml:id="n4tiykc" dur="8" oct="5" pname="d"/>
+                           <rest xml:id="r13gcklq" dur="8" oloc="3" ploc="b" type="mscore-beam-none"/>
                         </layer>
                         <layer xml:id="m127s1l3" n="3">
-                           <rest xml:id="rk9jvuh" dur="2"/>
-                           <space dur='8'/>
-                           <rest xml:id="r13gcklq" dur="8" oloc="3" ploc="b" type="mscore-beam-none"/>
+                           <space xml:id="rk9jvuh" dur="4" dots='1'/>
+                           <space dur="8"/>
+                           <space dur="8"/>
+                           <note xml:id="n4tiykc" dur="8" oct="5" pname="d" stem.dir="down"/>
                         </layer>
                      </staff>
                   </measure>
@@ -4839,7 +4840,7 @@
                               <chord>
                               <note xml:id="nuwj9yc" dots="1" dur="8" oct="5" pname="g" type="mscore-beam-begin"/>
                            <note xml:id="nroxhdx" dur="4" oct="4" pname="a" stem.dir="up"/>
-                              </chord>
+                                 </chord>
                               <note xml:id="n13lead6" dur="16" oct="5" pname="a" type="mscore-beam-mid"/>
                               <note xml:id="n109z8a0" dur="8" oct="5" pname="f">
                                  <accid xml:id="akrafzb1" accid="s"/>
@@ -4851,14 +4852,13 @@
                               <accid xml:id="a1ol1d71" accid="f"/>
                            </note>
                            <note xml:id="nd4szj" dur="8" oct="5" pname="c" stem.dir="up"/>
-                           <note xml:id="nw0h7vi" dur="4" oct="4" pname="d" stem.dir="down"/>
                         </layer>
                         <layer xml:id="m128s1l3" n="3">
                            <space xml:id="rxac8w6" dur="4"/>
-                           <rest xml:id="r13r576" dur="8" oloc="4" ploc="c" type="mscore-beam-none"/>
-                           <space dur="4"/>
-                           <space dur="16"/>
-                           <rest xml:id="r1u2uugm" dur="8" type="mscore-beam-none"/>
+                           <rest xml:id="r13r576" dur="8" oloc="3" ploc="b" type="mscore-beam-none"/>
+                           <note xml:id="nw0h7vi" dur="4" oct="4" pname="d" stem.dir="down"/>
+                           <space xml:id="r19zxdf4eewsd" dur="16" type="mscore-beam-none"/>
+                           <rest xml:id="r1u2uugm" dur="8" oloc="4" ploc="g" type="mscore-beam-none"/>
                         </layer>
                      </staff>
                   </measure>
@@ -4886,8 +4886,8 @@
                            <beam xml:id="bb0p0gq2">
                               <chord>
                               <note xml:id="n123th0b" dots="1" dur="8" oct="5" pname="g" type="mscore-beam-begin"/>
-                              <note xml:id="n5x5j6o" dur="4" oct="4" pname="a" stem.dir="up"/>
-                              </chord>
+                           <note xml:id="n5x5j6o" dur="4" oct="4" pname="a" stem.dir="up"/>
+                                 </chord>
                               <note xml:id="n1lmucj2" dur="16" oct="5" pname="a" type="mscore-beam-mid"/>
                               <note xml:id="nshxkp0" dur="8" oct="5" pname="f">
                                  <accid xml:id="ayhzizp1" accid="s"/>
@@ -4901,7 +4901,7 @@
                            <note xml:id="n17qeig5" dots="1" dur="4" oct="4" pname="d" stem.dir="down"/>
                         </layer>
                      </staff>
-                     <dynam xml:id="dkrf1pz" label="piano" startid="#n123th0b">piano</dynam>
+                     <dynam xml:id="dkrf1pz" label="p" startid="#n123th0b">p</dynam>
                   </measure>
                   <measure xml:id="mkc952g" facs="#ztmeiz71" n="131">
                      <staff xml:id="m131s1" n="1">
